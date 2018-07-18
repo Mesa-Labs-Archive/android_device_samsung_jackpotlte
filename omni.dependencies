@@ -1,0 +1,8 @@
+[
+	{
+		"remote":"github",
+		"repository":"EliteCrewDev/android_kernel_samsung_universal7885",
+		"target_path":"kernel/samsung/universal7885",
+		"revision":"android-8.1"
+	}
+]
