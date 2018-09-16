@@ -56,6 +56,7 @@ TW_EXCLUDE_SUPERSU := true
 TW_EXTRA_LANGUAGES := true
 TW_USE_NEW_MINADBD := true
 TW_INCLUDE_CRYPTO := true
+TW_INCLUDE_FBE := true
 
 # Include
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/jackpotlte/include
